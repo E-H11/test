@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+@media screen and (max-width: 700px) {
+img {width: 200px}
+}
+
 body {
     margin: 0;
     padding: 0;
